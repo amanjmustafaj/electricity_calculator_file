@@ -1,0 +1,16 @@
+lib/constants/appliance_data.dart
+lib/main.dart
+lib/models/appliance_item.dart
+lib/models/saved_calculation.dart
+lib/screens/info_page.dart
+lib/screens/main_navigation.dart
+lib/screens/price_calc_page.dart
+lib/screens/settings_page.dart
+lib/screens/splash_screen.dart
+lib/screens/technical_calc_page.dart
+lib/utils/helpers.dart
+lib/utils/translations.dart
+lib/widgets/shared/glass_button.dart
+lib/widgets/shared/glass_card.dart
+lib/widgets/shared/glass_text_field.dart
+lib/widgets/shared/result_card.dart
